@@ -1,6 +1,6 @@
 # 🧠 Results Summary Component
 
-This project is a simple and responsive web design created using **HTML** and **CSS**.  
+This project is a simple and responsive web design created using **HTML**,**CSS** and **Javascript**.  
 It displays a user’s test results with a clean, modern, and colorful interface.
 
 ## 👩‍💻 Project Members
@@ -25,4 +25,5 @@ The design is inspired by the **Frontend Mentor Challenge**.
 ## 🛠️ Built With
 - **HTML5**
 - **CSS3 (Flexbox & Media Queries)**
+- **Javascript**
 - **GitHub Pages** (for hosting)
